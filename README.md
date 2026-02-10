@@ -124,6 +124,7 @@ Total Amount: $1600
 
 ## ✅Summary Table
 **Topic**        -  **Applied In**
+
 State Management - Local state or Redux
 
 Actions/Reducers -  Add / Remove / Update items
