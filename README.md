@@ -12,8 +12,8 @@ Build a Shopping Cart Manager to practice state management techniques:
 • Redux Toolkit (recommended if Redux is used)
 
 ## 🔥Requirements
-### 1.Cart State Management:
-You can implement **either**:
+## 1.Cart State Management:
+### You can implement **either**:
 
 • Local component state (via useState, useReducer)
 
@@ -66,7 +66,7 @@ o Decrease Quantity
 
 o Remove Item
 
-## 4.Redux (Optional)
+## 4.Redux (Optional):
 If you choose to use Redux:
 
 • Use createSlice for defining actions and reducers
