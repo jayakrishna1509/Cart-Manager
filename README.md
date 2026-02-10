@@ -123,7 +123,7 @@ Total Amount: $1600
 ```
 
 ## ✅Summary Table
-## **Topic**        -  **Applied In**
+**Topic**        -  **Applied In**
 
 State Management - Local state or Redux
 
